@@ -1,0 +1,8 @@
+C:\Assignment\Factorial\Factorial\bin\Debug\Factorial.exe.config
+C:\Assignment\Factorial\Factorial\bin\Debug\Factorial.exe
+C:\Assignment\Factorial\Factorial\bin\Debug\Factorial.pdb
+C:\Assignment\Factorial\Factorial\obj\Debug\Factorial.csproj.AssemblyReference.cache
+C:\Assignment\Factorial\Factorial\obj\Debug\Factorial.csproj.SuggestedBindingRedirects.cache
+C:\Assignment\Factorial\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+C:\Assignment\Factorial\Factorial\obj\Debug\Factorial.exe
+C:\Assignment\Factorial\Factorial\obj\Debug\Factorial.pdb
